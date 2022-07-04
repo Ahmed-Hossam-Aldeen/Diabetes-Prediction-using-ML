@@ -46,7 +46,7 @@ life time. At the same time, your blood having too much of glucose can cause hea
 ![1](https://user-images.githubusercontent.com/61332730/177211684-225114b7-9f46-42a5-9161-5921f619f2f7.PNG)
 
 ## Flask Web Application
-![2](https://user-images.githubusercontent.com/61332730/177211869-018b7d9f-eb62-494c-b60b-e275d27f10c0.PNG)
-![3](https://user-images.githubusercontent.com/61332730/177211879-1b5c5240-9a06-4531-b3a7-5a8a21b351c5.PNG)
+![22](https://user-images.githubusercontent.com/61332730/177212017-c3e0b9dc-be2b-4577-8562-db2dc2f3195b.png)
+![33](https://user-images.githubusercontent.com/61332730/177212023-b2e82f04-3fd5-4564-888e-40326c828d57.png)
 
 
